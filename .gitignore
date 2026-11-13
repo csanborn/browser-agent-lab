@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+data/
+coverage
+test-results
+evals/results/*.json
+!evals/results/latest.json
+.DS_Store
